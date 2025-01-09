@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Fywqdk
-- 👀 I’m interested in data science, automating tasks at work, making simple games and silly simulations
-- 🌱 I’m currently learning Python at a more advanced level as well as supplementary skills like Git, Linux etc.
-- 💞️ I’m looking to collaborate on - well honestly not a whole lot at the moment, as I barely have time for my own ideas.
-- 📫 How to reach me: Here
-
-
+- 👋 Hi, I’m Morten
+- 👀 I’m interested in home automation, data science, automating stuff at work, making simple games, and silly simulations. most things never reach GitHub, but I have a goal to improve on that.
+- 🌱 I’m mainly writing code in Python, while also playing with Home Assistant. I also like to do various things with ESPHome and Circuitpython. Currently considering learning some proper C++ for flashing micro processors etc.
